@@ -1,0 +1,19 @@
+html{
+    background-color: #191919;
+}
+
+.welcome{
+    color: #ccc;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.instructions{
+    color: #eee;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
